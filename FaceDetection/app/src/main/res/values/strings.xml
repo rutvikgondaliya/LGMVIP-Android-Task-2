@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Face Detection</string>
+    <string name="lgm">LGM</string>
+    <string name="face_detection">Face Detection</string>
+    <string name="face_attributes_are_displayed">Face attributes are displayed</string>
+    <string name="start">Start</string>
+    <string name="eyes">Eyes: </string>
+    <string name="l">(L :</string>
+    <string name="h">)</string>
+    <string name="r">,R :</string>
+    <string name="ears">Ears: </string>
+    <string name="nose">Nose: </string>
+    <string name="mouth">Mouth:</string>
+    <string name="smiling_probability">Smiling probability:</string>
+    <string name="eyes_open">Eyes open:</string>
+</resources>

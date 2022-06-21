@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401970399423",
+    "project_id": "face-detection-app-118ae",
+    "storage_bucket": "face-detection-app-118ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401970399423:android:422787218e1f0cd5a95e0a",
+        "android_client_info": {
+          "package_name": "com.rutvik.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401970399423-kr0oaivm7vhl6aa1c94j0e7ohqu0is1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-7s15iE5BUMYPsAP9W_-jMteETMtEv4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401970399423-kr0oaivm7vhl6aa1c94j0e7ohqu0is1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
